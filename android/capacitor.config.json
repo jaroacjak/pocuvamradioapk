@@ -1,0 +1,6 @@
+{
+  "appId": "sk.pocuvam.radia",
+  "appName": "Počúvam Rádiá",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
